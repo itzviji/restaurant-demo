@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../commission-poc"
+		},
+		{
+			"path": "../../auctions/auction-app-engine"
+		},
+		{
+			"path": "../../auctions/auction-app-mobile"
+		},
+		{
+			"path": "../../auctions/auction-app-web"
+		},
+		{
+			"path": "../../auctions/auction-live"
+		},
+		{
+			"path": "../../auctions/auction-api"
+		},
+		{
+			"path": "."
+		}
+	]
+}
